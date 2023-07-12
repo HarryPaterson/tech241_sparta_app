@@ -1,3 +1,3 @@
 testing for tech241
 
-deploy test change syntax
+deploy test merged
